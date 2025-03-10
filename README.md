@@ -1,6 +1,6 @@
 #👩‍💻 RichardsEGS
 
-**`Desenvolvedora FullStack`**
+**`Engenheira de Software, em formação`**
 
 Me chamo Elissa Giulia dos Santos Richards, tenho 22 anos e sou natural de São Luís-Maranhão. Concluí o ensino médio no CEJOL. Atualmente, estou cursando Superior em Gestão da Tecnologia da Informação na Unicesumar. Sou apaixonada por tecnologia e tenho adquirido conhecimento através de canais no YouTube e internet de forma geral e crio projetos web básicos. Através do meu Instagram, com o perfil chamado "[Richards](https://www.instagram.com/elissagiuliaa/)", posto sobre alguns projetos já criados.
 
